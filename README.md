@@ -1,0 +1,1 @@
+See this blog post for more info: https://blog.jongallant.com/playwright-codegen-devcontainer
